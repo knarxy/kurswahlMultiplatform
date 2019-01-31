@@ -41,7 +41,7 @@ fun main() {
     fächer.add(Fach("Wahlfach Informatik", Aufgabenfeld.III, listOf(0, 0, 2), listOf(Fachattribute.Orchidee), 35,false))
     fächer.add(Fach("Philosophie", Aufgabenfeld.II, listOf(0, 0, 2), listOf(Fachattribute.Orchidee), 37,false))
     fächer.add(Fach("Psychologie", Aufgabenfeld.II, listOf(0, 0, 2), listOf(Fachattribute.Orchidee), 38,false))
-    fächer.add(Fach("Astronomie", Aufgabenfeld.III, listOf(0, 0, 2), listOf(Fachattribute.Orchidee), 39,false))
+  //  fächer.add(Fach("Astronomie", Aufgabenfeld.III, listOf(0, 0, 2), listOf(Fachattribute.Orchidee), 39,false))
     fächer.add(Fach("Darstellende Geometrie", Aufgabenfeld.III, listOf(0, 0, 2), listOf(Fachattribute.Orchidee), 41,false))
     fächer.add(Fach("Seminarfach I", Aufgabenfeld.I, listOf(0, 3, 0), listOf(Fachattribute.Seminarfach), 27,false))
     fächer.add(Fach("Seminarfach II", Aufgabenfeld.II, listOf(0, 3, 0), listOf(Fachattribute.Seminarfach), 28,false))
