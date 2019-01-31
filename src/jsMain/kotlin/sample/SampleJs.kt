@@ -79,7 +79,7 @@ actual object Variablen {
         START, WAHL
     }
 
-    val version="0.1.4_2018_12_23"
+    val version="0.1.4_2018_12_23 forked by Dennis Schweizer; modified 2019_01_31"
     fun setzeHash(){
         window.location.hash="#id=$status;ex=$excluded"
     }

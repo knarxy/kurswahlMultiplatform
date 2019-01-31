@@ -1,5 +1,5 @@
 body {
-font-family: Helvetica, Arial, Sans-Serif;
+    font-family: 'Roboto', sans-serif;
 }
 
  @media screen and (orientation:portrait) {
@@ -34,7 +34,7 @@ background-color: #ffff00
 }
 
 .klein{
-font-size:xx-small
+font-size:small;
 }
 
 .rotText {
@@ -64,4 +64,5 @@ color:#008800;
 ul{
 padding-inline-start: 10px;
 }
+
 
